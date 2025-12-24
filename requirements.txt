@@ -1,0 +1,35 @@
+# FastAPI и ASGI
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+
+# База данных
+sqlalchemy==2.0.25
+alembic==1.13.1
+aiosqlite==0.19.0
+asyncpg==0.29.0
+psycopg2-binary==2.9.9
+
+# Валидация и сериализация
+pydantic==2.6.1
+pydantic-settings==2.1.0
+email-validator==2.1.0
+
+# Аутентификация
+python-jose[cryptography]==3.3.0
+bcrypt==4.0.1
+
+# HTTP клиент для AI интеграций
+httpx==0.26.0
+
+# Утилиты
+python-dotenv==1.0.1
+
+# Админ-панель
+sqladmin==0.22.0
+itsdangerous==2.2.0
+
+# Тестирование
+pytest>=7.0.0,<8.0.0
+pytest-asyncio==0.23.4
+
