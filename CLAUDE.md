@@ -113,8 +113,9 @@ cors_origins: list[str] = [
 
 ## Связанные сервисы
 
-- **AI Agent:** https://github.com/ChargeOnTop/work21-agent
+- **AI Agent:** https://github.com/Daimnedope/work21-agents
 - **Frontend:** https://github.com/ChargeOnTop/work21-fr
+- **Admin Panel:** https://github.com/Daimnedope/work21-admins
 - **Deploy:** https://github.com/ChargeOnTop/work21-deploy
 
 ## Production
